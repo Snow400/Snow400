@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Snow400
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently studying for SEC+
 - ⚡ Fun fact: Mr. Robot brought me here 
 
 <!---
